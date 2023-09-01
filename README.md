@@ -26,4 +26,4 @@ Now, let's chat runes, shall we? Lucky for you, there's a rune setup that's like
 - **Resolve tree with Conditioning:** Dive into this if you're in the mood to tank up a bit. Get tankier, soak up damage like a sponge, and pick Overgrowth for some sweet HP regeneration.
 - **Bonus Tip:** When you're up against a bunch of assassins or poke champs on the enemy team, ditch Coup de Grace and pick up Last Stand. It's like Vayne saying, "I'm still deadly, even when I'm not at full health!"
 
-[IMAGE](http://localhost:3000/_next/image?url=https%3A%2F%2Fe1.yotools.net%2Fimages%2Fuser_image%2F2023%2F09%2F64f10fc3a85b4.jpg&w=1200&q=75)
+![IMAGE](http://localhost:3000/_next/image?url=https%3A%2F%2Fe1.yotools.net%2Fimages%2Fuser_image%2F2023%2F09%2F64f10fc3a85b4.jpg&w=1200&q=75)
