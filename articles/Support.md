@@ -5,7 +5,7 @@ As a support, you might assume that wave control is not your primary responsibil
 
 In the world of bot lane skirmishes, securing an early level 2 can be a game-changer, especially when you're running an aggressive composition. **However**, mindlessly auto-attacking minions won't guarantee this advantage. In fact, it can unintentionally push the wave toward the enemy turret, providing them with safety. To secure that all-important level 2 advantage, a more calculated approach is required. By judiciously auto-attacking minions, you can gain a slight XP edge. When the second wave arrives, you'll hit level 2 before your opponent, catching them off guard. The key here is not to telegraph your intentions to the enemy. If they sense your impending level 2 and retreat, don't force the issue; you've still exerted effective pressure.
 
-#### Timing is Crucial: Pushing Under the Enemy Tower
+### __Timing is Crucial: Pushing Under the Enemy Tower__
 
 
 There are occasions when pushing the wave under the enemy tower becomes imperative, whether for a recall, roam, or to contest an objective. If your ADC initiates the push, your role as a support is to assist while being mindful of timing. It's crucial not to let the next enemy wave arrive prematurely, forming a tempting target for the enemy ADC. If your ADC lacks the awareness to discern the right moment to push, you may find yourself taking on the role of advisor.
