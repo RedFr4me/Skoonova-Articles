@@ -7,7 +7,6 @@ In the world of bot lane skirmishes, securing an early level 2 can be a game-cha
 
 - Timing is Crucial: Pushing Under the Enemy Tower
 
-
 There are occasions when pushing the wave under the enemy tower becomes imperative, whether for a recall, roam, or to contest an objective. If your ADC initiates the push, your role as a support is to assist while being mindful of timing. It's crucial not to let the next enemy wave arrive prematurely, forming a tempting target for the enemy ADC. If your ADC lacks the awareness to discern the right moment to push, you may find yourself taking on the role of advisor.
 
 - The Art of Freezing: Controlling the Lane
