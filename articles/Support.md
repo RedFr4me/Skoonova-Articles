@@ -18,7 +18,7 @@ In situations where you're running a pressure-heavy composition in the bot lane 
 **Effective wave management is a skill that extends across all lanes, and as a support, it's one you must embrace to ascend the ranks. By mastering the art of wave control, you'll bolster your strategic arsenal and contribute significantly to your team's chances of victory. Wave manipulation isn't just for the ADCs; it's a tool that can elevate your support game to new heights. So, set your sights on those waves and navigate your way to success in the bot lane!**
 
 
-## 2) Roaming as a Support: Timing and Coordination
+# 2) Roaming as a Support: Timing and Coordination
 - Soraka's Surprise Roam: Turning the Tide
 
 Picture this: You're in the shoes of Soraka, renowned for her unrivaled healing prowess. Your ADC is safely farming, and the enemy bot lane is playing defensively, hugging their turret like it's their favorite teddy bear. This scenario presents a golden opportunity – Soraka's unexpected roaming potential. You can venture toward the mid lane, arriving just in the nick of time as your mid-laner's opponent attempts to make a play. With your perfectly timed silence and a well-placed heal, you can swiftly shift the balance of power and secure a kill. All this while your ADC continues to farm safely beneath their tower.
@@ -38,7 +38,7 @@ However, it's important to note the cons of this strategy. Venturing mid can car
 These examples underscore that effective roaming is not simply about abandoning your ADC. It's about capitalizing on your champion's unique strengths and coordinating seamlessly with your team to execute well-timed and impactful roams. The key lies in balancing risk and reward while maintaining constant communication and vigilant map awareness.
 
 
-## 3) Shotcalling and Objective Control: Leading Your Team to Triumph
+# 3) Shotcalling and Objective Control: Leading Your Team to Triumph
 In the intricate dance of League of Legends, the role of shotcaller often falls squarely on the shoulders of the support. This isn't merely by chance; it's a testament to the support's exceptional map awareness and ability to orchestrate the game's pivotal moments.
 
 - Objective Control:
@@ -54,7 +54,7 @@ In the heat of battle, split-second decisions can be the difference between vict
 For instance, if you spot the enemy jungler on the top lane while the dragon looms on the horizon, don't hesitate to ping your team into action. It's a 4v5 situation, and the dragon should be yours for the taking. But remember, it's not all about your damage output on the objective. Even if you're sporting a tank support, and the enemy team begins their advance during an objective takedown, your role pivots to becoming a living wall of pressure. Your presence alone could force them to rethink their approach and respect your influence.
 
 
-## 4) Adaptation: Tailoring Your Pick to the Situation
+# 4) Adaptation: Tailoring Your Pick to the Situation
 In the realm of high-stakes League of Legends, one skill that separates the best support players from the rest is adaptability. Being versatile means having a diverse pool of champions at your disposal, ready to be called upon to complement your team's picks and counter the enemy's composition.
 
 - Matching Your Team:
@@ -65,6 +65,6 @@ Let's take a moment to appreciate a simple yet potent strategy. Imagine your tea
 
 Conversely, when your squad consists of bruisers, tanks, or champions primed for aggressive engages, it's your cue to play the role of an enchanter. As they wade into the fray, your task is to heal and shield your comrades, ensuring they stay in the fight as long as possible. Your support becomes a lifeline, a guardian angel ensuring that your brawlers can brawl without fear.
 
-### Going the Extra Mile:
+## Going the Extra Mile:
 
 For those who want to delve deeper into the art of champion selection, there's a whole world of match-up analysis awaiting exploration. This entails considering not only your ADC's pick but also dissecting the enemy bot lane composition. What synergizes best with your ADC's chosen champion? And how can you exploit the weaknesses in your opponents' composition? These questions delve into advanced territory and might just be the topic for our next article!
