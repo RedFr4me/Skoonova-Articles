@@ -4,7 +4,7 @@ In this article, we're going to delve into the art of dealing with a Draven pick
 
 Over the years, I've honed my skills and strategies to consistently come out on top in my lanes when facing Draven. I'm here to share some invaluable tips and tricks that will undoubtedly help you do the same.
 
-## 1)   Laning Phase: Pressure and Submission 
+# 1)   Laning Phase: Pressure and Submission 
 
 Admit it, Draven boasts a formidable early-game advantage, largely thanks to the colossal damage output from his spinning axes. Matters can get even more challenging if he pairs up with an aggressive support like Thresh or Nautilus. In such cases, it's crucial to show respect.
 You might find yourself unable to contest Draven's aggressive positioning and initiative as he takes control of the lane. In doing so, you might feel like you've given up control, but that's perfectly acceptable because it's often your best course of action. Now, it's time to shift your strategy from controlling to subtly influencing.
@@ -22,7 +22,7 @@ Recognizing the right moments to trade with Draven is crucial. During the early 
 Allowing Draven to farm freely and stack his passive is not in your team's favor. This champion has a remarkable ability to snowball rapidly, often out of nowhere. Therefore, you should consistently clear vision in your lane to create opportunities for your jungler to gank. This not only pressures Draven but also helps your team gain an advantage and control over the game.
 
 
-## 2) Understanding Axe Mechanics:
+# 2) Understanding Axe Mechanics:
 
 Draven's damage largely depends on his ability to catch spinning axes. Understanding the mechanics behind his axes is crucial in neutralizing his threat. In this section, we'll dive into the intricacies of Draven's "Spinning Axe" ability.
 
@@ -43,4 +43,4 @@ To maximize your advantage against Draven, time your abilities and engagements c
 In lower elo, a common issue arises during team fights: Draven is often forgotten. He goes unnoticed, and his plays are left unchecked. When the fight begins, he patiently waits to eliminate your squishiest champions. Draven should never be neglected, particularly in the late game when his shorter attack range hampers his damage output. With his limited mobility, any positioning error should prompt your team to engage. Therefore, it's crucial to maintain a constant focus on him throughout team fights, making him your top priority.
 
 
-Incorporating these strategies into your gameplay will not only mitigate Draven's strengths but also give you a significant edge when facing this aggressive marksman in the bot lane.
+**Incorporating these strategies into your gameplay will not only mitigate Draven's strengths but also give you a significant edge when facing this aggressive marksman in the bot lane.**
