@@ -6,7 +6,7 @@ In the competitive world of League of Legends, where every match carries the wei
 
 The journey to improvement began when coaches and friends pointed out a glaring issue – I had become my own worst enemy. I was quick to point fingers, lay blame, and vent my frustrations at my teammates. Even worse, I found myself making excuses for my own mistakes and poor decision-making, as if admitting my flaws was a blow to my ego. In a bizarre twist of irony, I even berated my opponents when they outplayed me, as though their success was an affront to my pride. I was in full frustration mode, and it was clear that my mindset was a major roadblock to my progress.
 
-## Improve Your Mind: Improve Your Life!
+# Improve Your Mind: Improve Your Games!
 
 You might be wondering, "What does my mindset have to do with climbing the ladder?" Well, everything. League of Legends isn't just about mechanical skill or champion mastery; it's also a psychological battle. Let me tell you about my wake-up call.
 
@@ -24,7 +24,7 @@ Here's what I started doing after a loss: I immediately go to the replay and see
 
 You need to put yourself into a constant growth system, and it's only by making mistakes and identifying them that you're actually able to learn.
 
-## Adapt Your Playstyle to Any Situation
+# Adapt Your Playstyle to Any Situation
 
 Now, let's talk about adaptability. League of Legends is a game of constant change. No two matches are the same. Whether you're facing a different champion, a new meta, or a unique team composition, your ability to adapt is your secret weapon.
 
