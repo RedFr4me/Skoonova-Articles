@@ -1,4 +1,4 @@
-# You Should Start Playing Janna: Ultimate Guide. 
+# Start Playing Janna: The Ultimate Guide. 
 
 I always enjoyed playing Janna, it’s a champion that allows me to support my ADC to the maximum. She has some of the strongest peeling abilities in the game. The tornado combined with your ultimate pretty much means that no one can touch your teammates. Not to mention when the shield starts to scale and you watch your ADC’s damage go wild.
 
