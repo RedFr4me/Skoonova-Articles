@@ -1,4 +1,4 @@
-# Mastering the Early Game: How to Counter Blitzcrank in Lane
+# Early Game Guides: How to Counter Blitzcrank
 
 When it comes to the early game and laning phase in League of Legends, few things strike fear into the hearts of bot lane players like Blitzcrank's menacing Rocket Grab. That deadly hook can turn a promising laning phase into a nightmare in an instant. However, fear not, for with the right strategies and knowledge, you can effectively counter Blitzcrank and come out on top. In this article, we will delve into three key aspects of countering Blitzcrank in the early game.
 
