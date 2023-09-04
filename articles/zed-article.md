@@ -2,7 +2,7 @@
 
 Are you tired of facing Zed and feeling powerless as he dashes through your team, leaving destruction in his wake? This guide is your beacon of hope. In the world of League of Legends, understanding your opponent is half the battle. In this article, we'll delve into strategies for countering Zed with three unique champions: Xerath, Jinx, and Syndra.
 
-## 1) Understanding Zed's Kit and Threats
+# 1) Understanding Zed's Kit and Threats
 
 Before we dive into the specifics of countering Zed with our chosen champions, let's take a moment to dissect Zed's kit and understand what makes him tick. Zed is a high-mobility assassin with a kit built for bursting down single targets. Here's what you need to be aware of:
 
@@ -16,7 +16,7 @@ Before we dive into the specifics of countering Zed with our chosen champions, l
 
 Now that we have a grasp of Zed's kit, let's move on to champion-specific strategies.
 
-## 2) Navigating the Phases of the Game:
+# 2) Navigating the Phases of the Game:
 
 While this article primarily focuses on Xerath, the guidance provided can be applied to any poke champion. Xerath is renowned for his extraordinary range and poke capabilities. When confronting Zed, here's how Xerath can seize control of the situation:
 
@@ -34,7 +34,7 @@ During team fights, it's crucial to avoid being the frontline. While this may so
 
 So stay behind - place control wards in key areas to deny Zed's vision, and set up skill shot opportunities from unexpected angles.
 
-## 3) Adapting Itemization: A Range Poke Mage's Defense Against Zed
+# 3) Adapting Itemization: A Range Poke Mage's Defense Against Zed
 
 In the battle against Zed, as a ranged poke mage, itemization is your armor against his relentless onslaught. Zed's ability to swiftly close the gap and deliver devastating burst damage makes it imperative for you to adapt your item choices to survive his aggression. In this section, we'll explore how to bolster your defenses effectively.
 
