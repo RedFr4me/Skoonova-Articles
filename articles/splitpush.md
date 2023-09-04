@@ -2,7 +2,7 @@
 
 In the complex and ever-evolving landscape of League of Legends, split pushing stands as one of the most powerful strategies for securing victory. This article is dedicated to unraveling the intricacies of the split push, offering a comprehensive guide to those looking to dominate their solo lanes. We'll delve into understanding the split push concept, explore advanced strategies and tactics, and stress the importance of team communication and macro-level decision-making.
 
-## Understanding the Split Push Concept
+# Understanding the Split Push Concept
 
 At its core, split pushing is a strategic maneuver that involves a player pushing a side lane, typically either top or bot, with the primary aim of creating pressure on the map. This pressure forces the enemy team to respond, diverting their attention from objectives or teamfights in other areas. The rest of the player's team, the four-man squad, can then take advantage of the situation by securing objectives, winning fights, or maintaining map control.
 
@@ -18,7 +18,7 @@ You have good vision control in the area you plan to split push.
 - The minion waves are in a favorable position (more on this below).
 
 
-## Champion Selection: Adapting your split push to the game
+# Champion Selection: Adapting your split push to the game
 
 Some champions are more suited for split pushing than others. Consider champions with strong dueling potential, escape mechanisms, or the ability to take down towers quickly. Examples include Fiora, Tryndamere, or Camille.
 
@@ -31,7 +31,7 @@ Proxy Farming: Farming between enemy towers to draw attention, disrupt the enemy
 Bait and Switch: Appear to be split pushing, drawing enemy attention, then quickly join your team for a teamfight.
 
 
-## Team Communication and Macro Play
+# Team Communication and Macro Play
 
 Successful split pushing relies heavily on communication with your team. Inform them of your intentions and ask them to exert pressure elsewhere on the map.
 
