@@ -40,7 +40,7 @@ Stay up-to-date with the current meta. Knowing which champions are strong and wh
 
 Watching high-Elo players stream or reviewing their games can provide valuable insights. Pay attention to how they adapt to different situations, build paths, and adjust their playstyle.
 
-## Going the extra mile: Get Advice from Professionals
+# Going the extra mile: Get Advice from Professionals
 
 Getting coaching can really change the way you approach and understand the game. It might also help you identify mistakes that you didn't even know about. Knowledge is the most powerful skill you can develop.
 
