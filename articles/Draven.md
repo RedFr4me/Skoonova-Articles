@@ -1,4 +1,4 @@
-# Stop Getting Destroyed by Draven
+# How to Counter Draven: Quick Guide
 
 In this article, we're going to delve into the art of dealing with a Draven pick. For many of us ADC enthusiasts, it can be quite nerve-wracking when the enemy team locks in Draven during the champ select. However, today is the day we put an end to that fear!
 
