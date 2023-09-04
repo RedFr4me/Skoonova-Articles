@@ -2,7 +2,7 @@
 
 When it comes to the early game and laning phase in League of Legends, few things strike fear into the hearts of bot lane players like Blitzcrank's menacing Rocket Grab. That deadly hook can turn a promising laning phase into a nightmare in an instant. However, fear not, for with the right strategies and knowledge, you can effectively counter Blitzcrank and come out on top. In this article, we will delve into three key aspects of countering Blitzcrank in the early game.
 
-## 1) Positioning and Minion Wave Management:
+# 1) Positioning and Minion Wave Management:
 
 As always, positioning is your first line of defense against Blitzcrank's hooks. Ensuring that you maintain a safe distance from him is paramount. Blitzcrank's Rocket Grab will prioritize the first target it hits, whether it's an enemy champion or a minion. Therefore, standing behind your minion wave can work wonders.
 
@@ -13,7 +13,7 @@ Minion wave management holds equal importance. When your wave is pushing toward 
 
 Conversely, if your minion wave is closer to your tower, Blitzcrank must overextend to attempt a hook, increasing the risk for him. Communicate with your support to control the wave's positioning effectively.
 
-## 2) Positioning Importance:
+# 2) Positioning Importance:
 
 - The Triangular Formation 
 
@@ -42,7 +42,7 @@ When facing champions with skillshots as potent as Blitzcrank's (Q), mastering t
 If you feel the need to practice your dodging skills, I recommend playing games like "LoL Dodge Game." These can provide valuable practice and help you sharpen your reflexes.
 
 
-## 3) Champion Selection and Runes:
+# 3) Champion Selection and Runes:
 
 Choosing the right champion and runes can significantly impact your ability to counter Blitzcrank. Opt for champions with dashes, blinks, or crowd control abilities that can make it challenging for Blitzcrank to land hooks on you. For example, Thresh, Alistar, Morgana or Ezreal can be excellent choices. Alistar can Headbutt him away in case of an engage, Morgana can use her Black Shield to block the hook and Ezreal can simply dodge using his dash (E).
 
@@ -56,4 +56,4 @@ Consider investing in Control Wards, a small price to pay for peace of mind. Pla
 
 Lastly, be vigilant when Blitzcrank mysteriously disappears from the lane. If he roams to mid or another lane, communicate this information to your team immediately. Be ready to follow or ping for assistance to prevent him from making game-changing plays elsewhere on the map.
 
-**In conclusion, mastering the art of countering Blitzcrank in the early game and laning phase requires a combination of smart positioning, champion selection, rune choices, and vision control. By following these strategies and adapting to the specific situation in your games, you can minimize Blitzcrank's impact and pave the way for a successful bot lane experience. Good luck on the Fields of Justice!**
+## In conclusion, mastering the art of countering Blitzcrank in the early game and laning phase requires a combination of smart positioning, champion selection, rune choices, and vision control. By following these strategies and adapting to the specific situation in your games, you can minimize Blitzcrank's impact and pave the way for a successful bot lane experience. Good luck on the Fields of Justice! 
