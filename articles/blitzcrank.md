@@ -56,4 +56,4 @@ Consider investing in Control Wards, a small price to pay for peace of mind. Pla
 
 Lastly, be vigilant when Blitzcrank mysteriously disappears from the lane. If he roams to mid or another lane, communicate this information to your team immediately. Be ready to follow or ping for assistance to prevent him from making game-changing plays elsewhere on the map.
 
-## In conclusion, mastering the art of countering Blitzcrank in the early game and laning phase requires a combination of smart positioning, champion selection, rune choices, and vision control. By following these strategies and adapting to the specific situation in your games, you can minimize Blitzcrank's impact and pave the way for a successful bot lane experience. Good luck on the Fields of Justice! 
+**In conclusion, mastering the art of countering Blitzcrank in the early game and laning phase requires a combination of smart positioning, champion selection, rune choices, and vision control. By following these strategies and adapting to the specific situation in your games, you can minimize Blitzcrank's impact and pave the way for a successful bot lane experience. Good luck on the Fields of Justice!**
