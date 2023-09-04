@@ -1,4 +1,4 @@
-# Split Pushing Tips and Tricks: When? Why? and How?
+# Split Pushing Tips: When? Why? and How?
 
 In the complex and ever-evolving landscape of League of Legends, split pushing stands as one of the most powerful strategies for securing victory. This article is dedicated to unraveling the intricacies of the split push, offering a comprehensive guide to those looking to dominate their solo lanes. We'll delve into understanding the split push concept, explore advanced strategies and tactics, and stress the importance of team communication and macro-level decision-making.
 
