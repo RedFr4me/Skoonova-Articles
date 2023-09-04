@@ -1,4 +1,4 @@
-# Mastering Thresh: Get Ahead From the Laning Phase
+# Mastering Thresh: The Laning Phase
 
 Thresh, the Chain Warden, is a champion who has stolen the hearts of many League of Legends players. With his versatile skill set and the potential for game-changing plays, it's no wonder Thresh enthusiasts can't help but fall in love with this champion. As a tribute to Thresh, this article marks the beginning of a series that will delve into various aspects of mastering this complex champion. Today, our focus lies on the often-overlooked but crucial laning phase.
 
