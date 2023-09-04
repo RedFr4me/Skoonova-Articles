@@ -1,4 +1,4 @@
-# Mastering the Art of Countering Zed (as a Poke Champion).
+# The Art of Countering Zed (as a Poke Champion).
 
 Are you tired of facing Zed and feeling powerless as he dashes through your team, leaving destruction in his wake? This guide is your beacon of hope. In the world of League of Legends, understanding your opponent is half the battle. In this article, we'll delve into strategies for countering Zed with three unique champions: Xerath, Jinx, and Syndra.
 
