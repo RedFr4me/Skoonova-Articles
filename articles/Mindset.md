@@ -1,4 +1,4 @@
-# Change Your Mindset: Elevate Your League of Legends Game
+# Change Your Mindset: Elevate Your LoL Games
 
 In the competitive world of League of Legends, where every match carries the weight of your progress, it's easy to get caught up in a whirlwind of frustration and self-doubt. Like many aspiring players, I was trapped in a cycle of stagnation, my rank oscillating between high gold and low platinum. I felt like I was playing at my best, but the results didn't reflect my efforts. Something was holding me back, and it wasn't my teammates, my luck, or even the champions I chose.
 
