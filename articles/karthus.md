@@ -43,4 +43,4 @@ Let's keep everything simple:
 
 **In conclusion:** 
 
-Succeeding with Khartus as an ADC in League of Legends demands a profound grasp of positioning, laning strategies, and late-game tactics. With the correct approach, Khartus can evolve into a game-changing hyper-carry, surprising adversaries and reigning supreme on the rift due to his remarkable damage potential. Mastery of these advanced techniques will set you on the path to becoming a formidable Khartus ADC player. Best of luck on the Summoner's Rift!
+Succeeding with Karthus as an ADC in League of Legends demands a profound grasp of positioning, laning strategies, and late-game tactics. With the correct approach, Karthus can evolve into a game-changing hyper-carry, surprising adversaries and reigning supreme on the rift due to his remarkable damage potential. Mastery of these advanced techniques will set you on the path to becoming a formidable Karthus ADC player. Best of luck on the Summoner's Rift!
