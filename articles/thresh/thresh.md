@@ -2,7 +2,7 @@
 
 Thresh, the Chain Warden, is a champion who has stolen the hearts of many League of Legends players. With his versatile skill set and the potential for game-changing plays, it's no wonder Thresh enthusiasts can't help but fall in love with this champion. As a tribute to Thresh, this article marks the beginning of a series that will delve into various aspects of mastering this complex champion. Today, our focus lies on the often-overlooked but crucial laning phase.
 
-# Thresh's Advanced Laning Phase Strategies:
+# 1) Thresh's Advanced Laning Phase Strategies:
 
 The laning phase is the foundation upon which League of Legends matches are built. For Thresh players, this phase offers numerous opportunities to shine. We will explore advanced techniques that high-ELO Thresh players employ to exert pressure, control the minion wave, and execute strategic roams. These skills can turn the tide of a game, making you an invaluable asset to your team.
 
@@ -20,14 +20,14 @@ One unconventional yet effective tactic is to hold onto your Death Sentence (Q).
 
 Wave control is an indispensable skill for high-ELO players, and Thresh is no exception. Utilize your Relic Shield charges judiciously to secure cannon minions for the bonus gold. Additionally, employ the bonus damage from your Flay to last-hit minions when necessary. Mastering wave control allows you to deny the enemy valuable resources while setting up gank opportunities for your jungler.
 
-# Executing Strategic Roams: Wandering from the Bot Lane
+# 2) Executing Strategic Roams: Wandering from the Bot Lane
 
 - Thresh's mobility through his Dark Passage (W) ability provides the opportunity for well-timed roams to other lanes. High-ELO players understand the importance of leaving their lane at precisely the right moments to impact other parts of the map. Coordinate with your team, particularly your jungler, to maximize the impact of your roams. Consider these scenarios:
 
 - Push the wave and roam mid when your mid-laner has crowd control abilities, and the enemy mid-laner is overextended. Your presence can secure a kill and establish control over the mid-lane, which can lead to advantageous objective setups.
 
 
-# Predicting Enemy Movements: A Thresh's Sixth Sense
+# 3) Predicting Enemy Movements: A Thresh's Sixth Sense
 
 The ability to predict enemy movements is the hallmark of an exceptional Thresh player. Anticipate where your opponents are likely to go, rather than aiming for where they currently stand. It's about being in their head and thinking like they might think. This skill can be honed through practice and studying your opponents' behavior. Consider this example:
 
