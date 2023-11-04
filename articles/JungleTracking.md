@@ -41,7 +41,7 @@ No matter what, when you crash a decent wave under the enemy turret it’s very 
 
 # Frequently Asked Questions
 
-## What are the key signs that indicate I should start freezing my lane?
+### What are the key signs that indicate I should start freezing my lane?
 
 The decision to freeze a lane can depend on various factors. Here are some key signs:
 
@@ -50,7 +50,7 @@ The decision to freeze a lane can depend on various factors. Here are some key s
 3. Opponent Roaming: If your opponent is roaming, a freeze can force them to lose farm or return to lane, reducing their roaming impact.
 4. No Objective to Take: If there are no immediate objectives (like Dragon, Rift Herald, or Towers) to contest, maintaining a freeze can be more beneficial than pushing.
 
-## Are there any situations where I shouldn't attempt to freeze or slow push?
+### Are there any situations where I shouldn't attempt to freeze or slow push?
 
 Yes, there are several scenarios where freezing or slow pushing might not be ideal:
 
@@ -59,7 +59,7 @@ Yes, there are several scenarios where freezing or slow pushing might not be ide
 3. Your Team Needs You: If your presence is needed to contest objectives or support a team fight, freezing would be a mistake.
 4. Opponent Impact: If your lane opponent can impact other areas of the map significantly more than you can from a freeze, it's often better to push and follow.
 
-## What are the risks of freezing a lane, and how can I mitigate them?
+### What are the risks of freezing a lane, and how can I mitigate them?
 
 The primary risks involve:
 
@@ -73,7 +73,7 @@ Mitigation strategies include:
 * Health Management: Stay healthy enough to avoid being dived under your turret.
 * Communication: Inform your team about the enemy laner roaming and your intention to freeze so they can play more cautiously.
 
-## How do I decide between farming a big wave or joining a team fight that's about to start?
+### How do I decide between farming a big wave or joining a team fight that's about to start?
 
 Deciding between farming a big wave or joining a team fight depends on several considerations:
 
